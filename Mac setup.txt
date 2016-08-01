@@ -3,6 +3,7 @@ software list
 google chrome
 firefox
 sublime text 3
+atom text editor
 adobe reader
 world of tanks
 world of warships
@@ -24,6 +25,7 @@ termHere
 the unarchiver
 text2speech pro
 yam display
+Duet Display
 flux
 github desktop
 cmake
@@ -59,6 +61,7 @@ aircrack-ng
 ansiweather
 archey
 bash-completion
+calc
 cmatrix
 colordiff
 cowsay
