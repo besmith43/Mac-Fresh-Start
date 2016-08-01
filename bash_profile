@@ -95,7 +95,7 @@ alias netstat="netstat -tulpn"		    # Preferred 'netstat' implementation
 alias uname="uname -a"			    # Preferred 'uname' implementation
 alias df="df -ah"			    # Preferred 'df' implementation
 alias iftop="sudo iftop -P"		    # Preferred 'iftop' implementation
-alias sd="cd /Volumes/Minidrive"
+alias sd="cd /Volumes/MiniDrive"	    # Shortcut to MiniDrive SD Card
 
 
 #   lr:  Full Recursive Directory Listing
