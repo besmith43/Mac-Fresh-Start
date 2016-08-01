@@ -1,0 +1,81 @@
+software list
+
+google chrome
+firefox
+sublime text 3
+adobe reader
+world of tanks
+world of warships
+parallels
+app cleaner
+aptivate
+inSSider
+gotoassist Expert
+ZDoom
+amazon kindle reader
+macx dvd ripper
+daisy disk
+caffine
+magnet
+matlab
+office 2016
+monity
+termHere
+the unarchiver
+text2speech pro
+yam display
+flux
+github desktop
+cmake
+warzone 2100
+VLC
+VMWare Horizon Client
+Smartconverter
+teamviewer
+steam
+microsoft remote desktop
+minecraft
+notion
+OBS
+pixlr
+Zoom.us
+caffeine
+infovox ivox voice manager
+iTerm
+DosBox
+Dolphin
+monit
+softube
+ezdrummer
+ezmix
+ezkeys
+fanny
+endpoint security
+paragon for mac          HSI5FV-4C2QHL-QH7AOD-5KGUBL-L06LNA
+
+homebrew software list
+
+aircrack-ng
+ansiweather
+archey
+bash-completion
+cmatrix
+colordiff
+cowsay
+fortune
+gettext
+git
+htop
+iftop
+irssi
+lynx
+ncurses
+nmap
+openssl
+sl
+sleuthkit
+tmux
+tree
+vim
+wget
+youtube-dl

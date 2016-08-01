@@ -1,0 +1,9 @@
+Disable/Enable Notification Center
+
+Disable Command:
+
+launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist
+
+Enable Command:
+
+launchctl load -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist

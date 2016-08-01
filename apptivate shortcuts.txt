@@ -1,0 +1,22 @@
+apptivate shortcut log
+
+1) terminal
+shift + command + t
+
+2) daisy disk
+shift + command + d
+
+3) calculator
+shift + command + c
+
+4) Activity Monitor
+shift + command + m
+
+5) Yam Display
+shift + command + y
+
+6) Wireshark
+shift + command + w
+
+this file is to keep a log of all apps that i have shortcuts for in apptivate because time machine doesn't retain that information in it's backup very well
+
