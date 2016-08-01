@@ -22,6 +22,7 @@
 
 archey
 docker run --rm docker/whalesay cowsay $(fortune)
+tmux
 
 #   -------------------------------
 #   1. ENVIRONMENT CONFIGURATION
